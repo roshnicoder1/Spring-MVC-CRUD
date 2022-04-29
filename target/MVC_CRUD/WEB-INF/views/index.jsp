@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td><label>Customer Number</label></td>
-<td><input type="text" name="custno"/></td>
+<td><input  name="custno"/></td>
 </tr>
 <tr>
 <td><label>Customer Name</label></td>
@@ -22,7 +22,7 @@
 <tr>
 <tr>
 <td><label>Order Value</label></td>
-<td><input type="text" name="ordervalue"/></td>
+<td><input  name="ordervalue"/></td>
 </tr>
 <tr>
 <td><input type="submit" value="Add Customer" ></td>
